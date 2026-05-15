@@ -1,15 +1,3 @@
-<div align="center">
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-
-# Allyphio
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=FF4A2A&center=true&vCenter=true&width=640&lines=FullStack+Developer;Laravel+%2B+JavaScript+%2B+Android;Sistemas+SaaS+%26+Gateways+Pix;UI%2FUX+Dark+Style+Builder;Founder+%40+SushiPay" />
-
-</div>
-
----
-
 ## whoami
 
 ```bash
